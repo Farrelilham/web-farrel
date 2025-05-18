@@ -273,14 +273,10 @@ body {
 }
 
 footer {
-    position: fixed;
     background-color: #2d45ce;
     text-align: center;
     padding: 1rem 0;
     margin-top: 3rem;
-    bottom: 0;
-    right: 0;
-    left: 0;
 }
 
 footer .links {
